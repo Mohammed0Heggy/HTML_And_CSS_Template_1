@@ -1,2 +1,2 @@
 # HTML_And_CSS_Template_1
-HTML And CSS Teemplate
+HTML And CSS Template
